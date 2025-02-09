@@ -64,6 +64,11 @@ Including these additional features, particularly **lifestyle factors** and **pa
 By segmenting the model based on age and incorporating critical features such as **genetic factors**, the model's performance has significantly improved. Future work will focus on integrating additional data features to further optimize predictions for health insurance premiums.
 
 ---
+## Try the Application
+
+You can interact with the **Streamlit application** for predicting health insurance premiums by clicking the link below:
+
+[**Check out the Health Premium Prediction Application**](#)  <!-- Replace "#" with the actual link to the Streamlit app -->
 
 ## How to Use
 
