@@ -68,7 +68,7 @@ By segmenting the model based on age and incorporating critical features such as
 
 You can interact with the **Streamlit application** for predicting health insurance premiums by clicking the link below:
 
-[**Check out the Health Premium Prediction Application**](#)  <!-- Replace "#" with the actual link to the Streamlit app -->
+[**Check out the Health Premium Prediction Application**](https://health-insurance-premium-using-ml-drk.streamlit.app/)  <!-- Replace "#" with the actual link to the Streamlit app -->
 
 ## How to Use
 
